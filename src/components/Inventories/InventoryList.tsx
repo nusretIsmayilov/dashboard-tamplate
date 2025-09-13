@@ -1,9 +1,4 @@
-import { Inventory } from '../../models/inventory'
 
-interface InventoryListProp {
-  data: Inventory[]
-}
-
-export const InventoryList = (props: InventoryListProp) => {
+export const InventoryList = () => {
   return <></>
 }
