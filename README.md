@@ -20,7 +20,7 @@
 * **Production CSS** is only **&thickapprox;38kb**
 * Reusable components
 * Free under MIT License
-* [Premium version](https://justboil.me/tailwind-admin-templates/react-dashboard/) available
+* [Premium version](https://github.com/nusretIsmayilov/dashboard-tamplate) available
 
 ## Table of Contents
 
